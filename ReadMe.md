@@ -12,9 +12,9 @@ Current Portflio home page that contains links to all work I've completed as an 
 
 ## Setup/Installation Requirements
 
-1. Open web browser of choice_
-2. Go to http://ryanking1.github.io_
-3. Click links to view specific projects_
+1. Open web browser of choice
+2. Go to http://ryanking1.github.io
+3. Click links to view specific projects
 
 
 ## Known Bugs
