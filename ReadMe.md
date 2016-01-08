@@ -1,31 +1,31 @@
 
 
-# _Portfolio Landing Page
+# Portfolio Landing Page
 
-#### _Github Home Page for Ryan King, 01.08.2016_
+#### Github Home Page for Ryan King, 01.08.2016
 
-#### By _**Ryan King**_
+#### By Ryan King
 
 ## Description
 
-_Current Portflio home page that contains links to all work I've completed as an Epicodus Student. Will continue to be updated as more projects are completed or revised._
+Current Portflio home page that contains links to all work I've completed as an Epicodus Student. Will continue to be updated as more projects are completed or revised.
 
 ## Setup/Installation Requirements
 
-*_Open web browser of choice_
-*_Go to http://ryanking1.github.io_
-*_Click links to view specific projects_
+1. Open web browser of choice_
+2. Go to http://ryanking1.github.io_
+3. Click links to view specific projects_
 
 
 ## Known Bugs
-_Currently contains placeholder links, as this is the first project uploaded to my Github page._
+Currently contains placeholder links, as this is the first project uploaded to my Github page.
 
 ## Support and Contact Details
 
-_If any bugs are found other than what is already listed here, feel free to email me at Ryanking157@hotmail.com_
+If any bugs are found other than what is already listed here, feel free to email me at Ryanking157@hotmail.com.
 
 ### License
 
-*This project is licensed under the MIT license.*
+This project is licensed under the MIT license.
 
-Copyright (c) 2015 **_Ryan King_**
+Copyright (c) 2015 Ryan King
