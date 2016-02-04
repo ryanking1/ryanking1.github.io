@@ -18,7 +18,7 @@ Current Portflio home page that contains links to all work I've completed as an 
 
 
 ## Known Bugs
-Currently contains placeholder links, as this is the first project uploaded to my Github page.
+Currently contains placeholder links by language type, as this is the first project uploaded to my Github page.
 
 ## Support and Contact Details
 
